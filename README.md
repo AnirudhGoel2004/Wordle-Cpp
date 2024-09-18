@@ -32,3 +32,10 @@ A terminal-based implementation of the popular Wordle game where players have 6 
    - Letters in the wrong position will be **yellow**.
    - Incorrect letters will be **gray**.
 3. Keep guessing until you find the word or run out of attempts. If unsuccessful, the game will reveal the correct word.
+
+## Example
+<img width="405" alt="Screenshot 2024-09-18 at 4 16 55 PM" src="https://github.com/user-attachments/assets/8d5fa0bd-c142-4b8d-86ca-5ea4cb562bf7">
+<img width="454" alt="Screenshot 2024-09-18 at 4 17 13 PM" src="https://github.com/user-attachments/assets/3f8c7de0-fab8-42eb-ae68-7012f6c8542a">
+<img width="502" alt="Screenshot 2024-09-18 at 4 17 02 PM" src="https://github.com/user-attachments/assets/45748605-4a0c-4d7c-9588-0d92ff2c888e">
+
+
